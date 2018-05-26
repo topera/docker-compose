@@ -14,7 +14,7 @@ In this docker compose we are starting a Jenkins and a Sonar server at same time
     * `$ sudo docker-compose up -d`
         * The `-d` is from daemon, that is, to run in background
 * See logs
-    *`$ sudo docker-compose logs`
+    * `$ sudo docker-compose logs`
 * Access Jenkins in http://localhost:8080
 * Access SonarQube in http://localhost:8081
 * To see docker containers running:
